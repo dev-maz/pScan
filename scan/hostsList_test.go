@@ -2,9 +2,9 @@ package scan_test
 
 import (
 	"errors"
+	"github.com/dev-maz/pScan/scan"
 	"io/ioutil"
 	"os"
-	"pScan/scan"
 	"testing"
 )
 

@@ -1,4 +1,4 @@
-module pScan
+module github.com/dev-maz/pScan
 
 go 1.26.5
 

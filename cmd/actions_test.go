@@ -3,11 +3,11 @@ package cmd
 import (
 	"bytes"
 	"fmt"
+	"github.com/dev-maz/pScan/scan"
 	"io"
 	"io/ioutil"
 	"net"
 	"os"
-	"pScan/scan"
 	"strconv"
 	"strings"
 	"testing"

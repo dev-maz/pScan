@@ -1,8 +1,8 @@
 package scan_test
 
 import (
+	"github.com/dev-maz/pScan/scan"
 	"net"
-	"pScan/scan"
 	"strconv"
 	"testing"
 )

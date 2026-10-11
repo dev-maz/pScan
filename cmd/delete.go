@@ -17,9 +17,9 @@ package cmd
 
 import (
 	"fmt"
+	"github.com/dev-maz/pScan/scan"
 	"io"
 	"os"
-	"pScan/scan"
 
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
